@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ #leftbox {
+    float:left; 
+    background:rgba(96, 93, 93, 0.24)(65, 62, 62);
+    width:15%;
+    height:50px;
+}
+#rightbox{
+    float:right;
+    background:rgba(96, 93, 93, 0.24)(65, 62, 62);
+    width:85%;
+    height:50px;
+}
+h1{
+    color:rgb(0, 11, 0);
+    padding: 9px 0 30px;
+}
